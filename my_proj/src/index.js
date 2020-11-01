@@ -145,3 +145,10 @@ ReactDOM.render(
   <App />,
   document.getElementById('root')
 );
+
+
+
+// ##### used 
+// npm install --save styled-components
+// npm i @atlaskit/css-reset
+// npm install --save react-beautiful-dnd
